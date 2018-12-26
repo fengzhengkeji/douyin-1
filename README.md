@@ -7,12 +7,9 @@
 
 
 #douyin_client.py
-
-  抖音加密算法接口
-  
-  适用于抖音设备注册：/service/2/device_register/
-  
-  反作弊日志接口： /service/2/app_log/
+*抖音加密算法接口
+*适用于抖音设备注册：/service/2/device_register/
+*反作弊日志接口： /service/2/app_log/
   
 ##抖音解密算法接口：
 
